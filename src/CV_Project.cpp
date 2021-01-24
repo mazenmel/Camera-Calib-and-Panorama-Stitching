@@ -63,7 +63,7 @@ int main(int argc, char* argv[])
     }
         
 /*Calibrate camera? [y/n]: y
-Enter checker board images path: C:\Users\MEL\Desktop\calib_images
+Enter checker board images path: ./
 Enter camera sensor width in mm: 4.82
 Enter image width in pixels: 800
 Enter number of squares in columns (x): 8

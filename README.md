@@ -1,5 +1,5 @@
 # Camera Calibration and Panorama Stitching
-This repo caontains a C++ code for camera calibration and panoramic image representation. For more information please refer to the full report [here](https://drive.google.com/file/d/1NPWsrzrCnMujzLPbZrOxii73qNF6kOVR/view?usp=sharing) 
+This repo contains a C++ code for camera calibration and panoramic image representation. For more information please refer to the full report [here](https://drive.google.com/file/d/1NPWsrzrCnMujzLPbZrOxii73qNF6kOVR/view?usp=sharing).
 
 Panoramic images are generally obtained by merging several narrow view adjacent images of the same scene taken by rotating a camera along the vertical and/or the horizontal axis. Stitching these images produces a wide view image of the scene as if it was taken by a large Field Of View (FOV) camera.
 

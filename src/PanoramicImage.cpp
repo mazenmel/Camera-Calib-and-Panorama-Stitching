@@ -5,8 +5,8 @@
  * @Author Mazen Mel 1237873
 */
 
-/* Note: User defined variables may affect the program execution, 
-	so if arrors accure thats likely a descriptor that doesnt work
+/* Note: User defined variables may affect the program execution.
+	If errors occur that's likely a descriptor that doesn't work
 	properly with the defined thresholds.*/ 
 
 #include "PanoramicImage.h"
